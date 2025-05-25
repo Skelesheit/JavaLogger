@@ -1,2 +1,1 @@
-public class User {
-}
+public record User(String username, double balance) {}
